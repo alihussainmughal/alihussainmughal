@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali Hussain</h1>
 <h3 align="center">A passionate student of Computer Science</h3>
+<img align='right' width='400' src='https://user-images.githubusercontent.com/114822461/230735373-cfc8f5d8-31fb-4162-a7bb-fae55e0ddf61.png'/>
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=alihussainmughal&label=Profile%20views&color=0e75b6&style=flat" alt="alihussainmughal" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alihussainmughal&label=Profile%20views&color=0e75b6&style=flat" alt="alihussainmughal" /> </p>
-<p align='left'><img src='https://user-images.githubusercontent.com/114822461/230735373-cfc8f5d8-31fb-4162-a7bb-fae55e0ddf61.png'/></p>
 - 🔭 I’m currently studying **Computer Science**
 
 - 🌱 I’m currently learning **Python libraries For Data Science**
